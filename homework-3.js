@@ -54,10 +54,6 @@
 
 //task - 5  Перепишите цикл for на while.
 
-// for (let i = 0; i < 3; i++) {
-//   alert(`number ${i}!`);
-// }
-
 // let b = 0;
 // while (b < 3) {
 //   alert(`number ${b}!`);
